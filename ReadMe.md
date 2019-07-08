@@ -32,4 +32,5 @@ following dependencies must be added to your project
 
 ## Run Example
 you must set eureka server url and IPv4 of your PC (or container) in these examples then deploy them on Tomcat standalone.
- 
+
+![Example](pic/circuit-breaker.png) 
